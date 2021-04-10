@@ -30,12 +30,12 @@
           </value>
           <value name="HEIGHT">
             <shadow type="math_number" id="^CRx+PB/xfNP!S9YeR-R">
-              <field name="NUM">256</field>
+              <field name="NUM">512</field>
             </shadow>
           </value>
           <value name="FONTFAMILY">
             <shadow type="text" id=":bw2X@7l[,iK0nj(d/|]">
-              <field name="TEXT">Roboto</field>
+              <field name="TEXT">My font</field>
             </shadow>
           </value>
           <value name="FONTSIZE">
