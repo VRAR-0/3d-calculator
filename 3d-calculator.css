@@ -1,8 +1,9 @@
 /* __V3D_TEMPLATE__ - template-based file; delete this line to prevent this file from being updated */
 
-body {
+body, html {
     margin: 0px;
     overflow: hidden;
+    font-family: 'Roboto', sans-serif;
 }
 
 #v3d-container {

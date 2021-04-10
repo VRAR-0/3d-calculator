@@ -8,9 +8,6 @@
         <shadow type="materialList" id="sZlI-PphI24_X:NAHDZk">
           <field name="FIELDNAME">screen</field>
         </shadow>
-        <block type="materialList" id=";o{K-v.lTNr`Nv;l+V3g">
-          <field name="FIELDNAME">screen</field>
-        </block>
       </value>
       <value name="NEW_TEX_URL">
         <shadow type="text" id="`8+7=It|NoXX+DR1ijNL">
@@ -20,7 +17,7 @@
           <field name="ALIGN">CENTER</field>
           <value name="TEXT">
             <shadow type="text" id=",~=]oq[O4.I,Cs^]Vn5~">
-              <field name="TEXT">3+3*5*7*3/6=5</field>
+              <field name="TEXT">lol</field>
             </shadow>
           </value>
           <value name="WIDTH">
@@ -35,7 +32,7 @@
           </value>
           <value name="FONTFAMILY">
             <shadow type="text" id=":bw2X@7l[,iK0nj(d/|]">
-              <field name="TEXT">Roboto</field>
+              <field name="TEXT">Arial</field>
             </shadow>
           </value>
           <value name="FONTSIZE">

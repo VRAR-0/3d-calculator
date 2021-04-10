@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="init" type="InitTab" active="false" scrollx="875" scrolly="444" scale="0.9"></tab>
-  <tab name="main" type="MainTab" active="true" scrollx="893.1450001615285" scrolly="417.3800012580555" scale="0.9922500000000001">
+  <tab name="main" type="MainTab" active="true" scrollx="875" scrolly="444" scale="0.9">
     <block xmlns="https://developers.google.com/blockly/xml" type="replaceTexture" id="iJ@P.T$yIHqRLIxkv^.," inline="false" x="-810" y="-330">
       <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false"></mutation>
       <field name="OLD_TEX_NAME">screen</field>
@@ -8,9 +8,6 @@
         <shadow type="materialList" id="sZlI-PphI24_X:NAHDZk">
           <field name="FIELDNAME">screen</field>
         </shadow>
-        <block type="materialList" id=";o{K-v.lTNr`Nv;l+V3g">
-          <field name="FIELDNAME">screen</field>
-        </block>
       </value>
       <value name="NEW_TEX_URL">
         <shadow type="text" id="`8+7=It|NoXX+DR1ijNL">
@@ -20,27 +17,27 @@
           <field name="ALIGN">CENTER</field>
           <value name="TEXT">
             <shadow type="text" id=",~=]oq[O4.I,Cs^]Vn5~">
-              <field name="TEXT">3+3*5*7*3/6=5</field>
+              <field name="TEXT">Hello, Verge!</field>
             </shadow>
           </value>
           <value name="WIDTH">
             <shadow type="math_number" id="nxwtw|ap0b?_qNC+7$fB">
-              <field name="NUM">1024</field>
+              <field name="NUM">400</field>
             </shadow>
           </value>
           <value name="HEIGHT">
             <shadow type="math_number" id="^CRx+PB/xfNP!S9YeR-R">
-              <field name="NUM">256</field>
+              <field name="NUM">100</field>
             </shadow>
           </value>
           <value name="FONTFAMILY">
             <shadow type="text" id=":bw2X@7l[,iK0nj(d/|]">
-              <field name="TEXT">Roboto</field>
+              <field name="TEXT">Arial</field>
             </shadow>
           </value>
           <value name="FONTSIZE">
             <shadow type="math_number" id="4Y9Cu,=e}B7h`nq#EWiF">
-              <field name="NUM">100</field>
+              <field name="NUM">12</field>
             </shadow>
           </value>
           <value name="OFFSET">
