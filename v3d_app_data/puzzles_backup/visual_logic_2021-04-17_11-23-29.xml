@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="init" type="InitTab" active="false" scrollx="860.2631106456357" scrolly="481.04738827892646" scale="0.8163265306122448"></tab>
-  <tab name="main" type="MainTab" active="false" scrollx="1042" scrolly="219.0000000000001" scale="1">
+  <tab name="main" type="MainTab" active="true" scrollx="1042" scrolly="219.0000000000001" scale="1">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="C=E:3n3Ub[~xKpatHL+D" type="">x</variable>
       <variable id="}luPb`~TaiR_b/~eUL[y" type="">screen1</variable>
@@ -79,7 +79,7 @@
                   </value>
                   <value name="B">
                     <block type="text" id="8*nF(wlfJgTc=jfFrGN1">
-                      <field name="TEXT">none</field>
+                      <field name="TEXT"/>
                     </block>
                   </value>
                 </block>
@@ -137,7 +137,7 @@
                           <field name="VAR" id="[!zCB?H-YIqkzlj.{z/R">res</field>
                           <value name="VALUE">
                             <block type="text" id="p=(7B8#+P,2+9M9SQN[;">
-                              <field name="TEXT">none</field>
+                              <field name="TEXT"/>
                             </block>
                           </value>
                           <next>
@@ -237,7 +237,7 @@
       </statement>
     </block>
   </tab>
-  <tab name="clava" type="SecondaryTab" active="true" scrollx="585" scrolly="466" scale="1">
+  <tab name="clava" type="SecondaryTab" active="false" scrollx="526" scrolly="-1533" scale="1">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="}luPb`~TaiR_b/~eUL[y" type="">screen1</variable>
       <variable id="^4=nB|f(YkwBC,yvlUFj" type="">num1</variable>
@@ -282,7 +282,7 @@
                       <field name="VAR" id="[!zCB?H-YIqkzlj.{z/R">res</field>
                       <value name="VALUE">
                         <block type="text" id="#|r~7$0x9ah0G~Dn3CJi">
-                          <field name="TEXT">none</field>
+                          <field name="TEXT"/>
                         </block>
                       </value>
                       <next>
