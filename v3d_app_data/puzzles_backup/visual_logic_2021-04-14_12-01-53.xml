@@ -1,0 +1,92 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="init" type="InitTab" active="false" scrollx="875" scrolly="444" scale="0.9"></tab>
+  <tab name="main" type="MainTab" active="false" scrollx="893.1450001615285" scrolly="417.3800012580555" scale="0.9922500000000001">
+    <block xmlns="https://developers.google.com/blockly/xml" type="replaceTexture" id="iJ@P.T$yIHqRLIxkv^.," inline="false" x="-810" y="-330">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" enabledoslot="false" flextexinput="false"></mutation>
+      <field name="OLD_TEX_NAME">screen</field>
+      <value name="MATERIAL">
+        <shadow type="materialList" id="sZlI-PphI24_X:NAHDZk">
+          <field name="FIELDNAME">screen</field>
+        </shadow>
+        <block type="materialList" id=";o{K-v.lTNr`Nv;l+V3g">
+          <field name="FIELDNAME">screen</field>
+        </block>
+      </value>
+      <value name="NEW_TEX_URL">
+        <shadow type="text" id="`8+7=It|NoXX+DR1ijNL">
+          <field name="TEXT">./newTexture.png</field>
+        </shadow>
+        <block type="textureFromText" id="~of44p-y8MD7=i}rBPqx">
+          <field name="ALIGN">CENTER</field>
+          <value name="TEXT">
+            <shadow type="text" id=",~=]oq[O4.I,Cs^]Vn5~">
+              <field name="TEXT">3+3*5*7*3/6=5</field>
+            </shadow>
+          </value>
+          <value name="WIDTH">
+            <shadow type="math_number" id="nxwtw|ap0b?_qNC+7$fB">
+              <field name="NUM">1024</field>
+            </shadow>
+          </value>
+          <value name="HEIGHT">
+            <shadow type="math_number" id="^CRx+PB/xfNP!S9YeR-R">
+              <field name="NUM">256</field>
+            </shadow>
+          </value>
+          <value name="FONTFAMILY">
+            <shadow type="text" id=":bw2X@7l[,iK0nj(d/|]">
+              <field name="TEXT">Roboto</field>
+            </shadow>
+          </value>
+          <value name="FONTSIZE">
+            <shadow type="math_number" id="4Y9Cu,=e}B7h`nq#EWiF">
+              <field name="NUM">100</field>
+            </shadow>
+          </value>
+          <value name="OFFSET">
+            <shadow type="math_number" id="B5r}}HpozGI=(VkXy~J5">
+              <field name="NUM">0</field>
+            </shadow>
+          </value>
+        </block>
+      </value>
+    </block>
+  </tab>
+  <tab name="clava" type="SecondaryTab" active="true" scrollx="364.4003601074219" scrolly="237.06190490722656" scale="1">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenHovered" id="Mmbr5]4`t)iDYPKx}C^o" x="130" y="290">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="})Rx%xHxE#1iGa~*QVS,">
+          <field name="FIELDNAME">Instance_calculator_but0</field>
+        </shadow>
+        <block type="groupList" id="Y.IjaEZb2KnAtO9[4|z.">
+          <field name="FIELDNAME">calculator</field>
+        </block>
+      </value>
+      <statement name="DO_OVER">
+        <block type="outline" id="B#)X0%9RGutc.wSM]klW">
+          <field name="DO_WHAT">ENABLE</field>
+          <value name="TARGET">
+            <shadow type="objectList" id="JES%m0+`Jc2uow`h`xUG">
+              <field name="FIELDNAME">Instance_but_1</field>
+            </shadow>
+            <block type="hoveredObject" id="LY(AmnhK15$fCCOKrFN7"/>
+          </value>
+        </block>
+      </statement>
+      <statement name="DO_OUT">
+        <block type="outline" id="WXUz(g4K:VTeA;9CKGFo">
+          <field name="DO_WHAT">DISABLE</field>
+          <value name="TARGET">
+            <shadow type="objectList" id="H*lTk]It43KOf(unSoj}">
+              <field name="FIELDNAME">Instance_but_0</field>
+            </shadow>
+            <block type="hoveredObject" id="/254|#+r^b1hAW*szp4-"/>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1134" viewport-y="28" viewport-w="768" viewport-h="482" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
