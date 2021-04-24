@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="init" type="InitTab" active="false" scrollx="860.2631106456357" scrolly="481.04738827892646" scale="0.8163265306122448"></tab>
-  <tab name="main" type="MainTab" active="false" scrollx="1219.394873997433" scrolly="356.824330841293" scale="0.6139132535407591">
+  <tab name="main" type="MainTab" active="false" scrollx="1371.0000000000007" scrolly="654.9999999999998" scale="1">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="C=E:3n3Ub[~xKpatHL+D" type="">x</variable>
       <variable id="Nh:^|)=+Bg05:|F}kVv$" type="">screen2</variable>
@@ -470,7 +470,7 @@
       </statement>
     </block>
   </tab>
-  <tab name="clava" type="SecondaryTab" active="true" scrollx="88.13327866961458" scrolly="695.4488138877484" scale="0.8227024747918819">
+  <tab name="clava" type="SecondaryTab" active="true" scrollx="88.13327866961458" scrolly="-15.551186112251571" scale="0.8227024747918819">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="Nh:^|)=+Bg05:|F}kVv$" type="">screen2</variable>
       <variable id="}luPb`~TaiR_b/~eUL[y" type="">screen1</variable>
@@ -596,7 +596,7 @@
                                               </value>
                                               <value name="B">
                                                 <block type="objectList" id="M0H3[MU*yVp[F^6X52_a">
-                                                  <field name="FIELDNAME">Instance_but2_0</field>
+                                                  <field name="FIELDNAME">Instance_but.2_0</field>
                                                 </block>
                                               </value>
                                             </block>
@@ -623,7 +623,7 @@
                                                   </value>
                                                   <value name="B">
                                                     <block type="objectList" id=".%`?EWsDnzG7+:UQa3-J">
-                                                      <field name="FIELDNAME">Instance_but2_0</field>
+                                                      <field name="FIELDNAME">Instance_but.2_but1</field>
                                                     </block>
                                                   </value>
                                                 </block>
