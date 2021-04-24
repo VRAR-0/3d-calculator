@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="init" type="InitTab" active="false" scrollx="860.2631106456357" scrolly="481.04738827892646" scale="0.8163265306122448"></tab>
-  <tab name="main" type="MainTab" active="true" scrollx="1246.7586762957628" scrolly="255.72219289755884" scale="0.8227024747918819">
+  <tab name="main" type="MainTab" active="false" scrollx="1174.7586762957626" scrolly="390.72219289755884" scale="0.8227024747918819">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="Q^H4|S=U*zT2u-q=KowF" type="">x2</variable>
       <variable id="C=E:3n3Ub[~xKpatHL+D" type="">x</variable>
@@ -470,7 +470,7 @@
       </statement>
     </block>
   </tab>
-  <tab name="clava" type="SecondaryTab" active="false" scrollx="-18.366558074951172" scrolly="-1429.5751342773438" scale="1">
+  <tab name="clava" type="SecondaryTab" active="true" scrollx="-111.67316818237305" scrolly="-846.5751342773438" scale="1">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="Nh:^|)=+Bg05:|F}kVv$" type="">screen2</variable>
       <variable id="}luPb`~TaiR_b/~eUL[y" type="">screen1</variable>
